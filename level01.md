@@ -1,4 +1,4 @@
-# Level 00 → Level 01
+# Level 01
 
 ## 💡 Approach
 ```
