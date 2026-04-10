@@ -20,7 +20,9 @@ bandit1@bandit:~$ cat ./-
 ```
 
 ## 📝 Notes
-<!-- When a filename starts with -, always prefix it with ./ to tell the shell it's a path — otherwise Unix interprets - as stdin, not a file. -->
+'''
+When a filename starts with -, always prefix it with ./ to tell the shell it's a path — otherwise Unix interprets - as stdin, not a file.
+'''
 
 ## ✅ Password Found
 ```
