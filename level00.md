@@ -1,10 +1,5 @@
 # Level 00 → Level 01
 
-## 🎯 Goal
-find the flag
-
-## 🔗 Resources
-<!-- none -->
 
 ## 💡 Approach
 ```
@@ -24,9 +19,6 @@ contribute to the OverTheWire community so we can keep these games free!
 
 The password you are looking for is: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 ```
-
-## 📝 Notes
-<!-- none -->
 
 ## ✅ Password Found
 ```
