@@ -1,11 +1,5 @@
 # Level 00 → Level 01
 
-## 🎯 Goal
-find the flag
-
-## 🔗 Resources
-``` none ```
-
 ## 💡 Approach
 ```
 	I only see a document named "-" I read it, and it contains the key.
