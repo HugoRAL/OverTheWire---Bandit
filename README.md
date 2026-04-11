@@ -78,13 +78,13 @@ All commands and concepts I've picked up are catalogued in [`commands-reference.
 
 | Level | Status | Key Concept |
 |-------|--------|-------------|
-| 0 → 1 | ⬜ | SSH basics |
-| 1 → 2 | ⬜ | Files with special names |
-| 2 → 3 | ⬜ | Spaces in filenames |
-| 3 → 4 | ⬜ | Hidden files |
-| 4 → 5 | ⬜ | File types |
-| 5 → 6 | ⬜ | `find` with properties |
-| 6 → 7 | ⬜ | Find by owner/group/size |
+| 0 → 1 | ✅ | SSH basics |
+| 1 → 2 | ✅ | Files with special names |
+| 2 → 3 | ✅ | Spaces in filenames |
+| 3 → 4 | ✅ | Hidden files |
+| 4 → 5 | ✅ | File types |
+| 5 → 6 | ✅ | `find` with properties |
+| 6 → 7 | 🟡 | Find by owner/group/size |
 | 7 → 8 | ⬜ | `grep` in large files |
 | 8 → 9 | ⬜ | `sort` + `uniq` |
 | 9 → 10 | ⬜ | `strings` on binary |
