@@ -38,11 +38,11 @@ otw-bandit/
 ├── README.md                    ← You are here
 ├── commands-reference.md        ← Every command I've learned, categorised
 └── levels/
-    ├── level00-01.md            ← Notes for Level 0 → 1
-    ├── level01-02.md            ← Notes for Level 1 → 2
-    ├── level02-03.md
+    ├── level00.md            ← Notes for Level 0
+    ├── level01.md            ← Notes for Level 1
+    ├── level02.md
     │   ...
-    └── level33-34.md            ← Notes for Level 33 → 34
+    └── level33.md            ← Notes for Level 33
 ```
 
 Each level file follows a consistent format:
